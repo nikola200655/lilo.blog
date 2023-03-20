@@ -2,7 +2,8 @@
 title = "Textanalyse"
 date = "2023-03-20"
 draft = true
-pinned = false
+pinned = true
+image = "images.jpeg"
 +++
 Flüchtige Gesichter in der Nacht
 
