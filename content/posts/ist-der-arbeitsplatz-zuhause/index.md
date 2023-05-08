@@ -9,7 +9,7 @@ footnotes = "Image: Dall-E promt: \"A person working in Home-Office, viewed from
 +++
 **Wie man zukünftig arbeiten wird.**  
 
-{{/Seit der Corona-Krise arbeiten in der Schweiz 50% der Beschäftigten von zu Hause, im Vergleich zu 25% vorher. Auch nach der Krise wird der Trend zum Home-Office bleiben. Unternehmen sollten Maßnahmen ergreifen, um ihre Mitarbeiter ausreichend zu unterstützen, da die Arbeitsproduktivität der meisten Befragten nicht gesunken ist. }}
+{{</Seit der Corona-Krise arbeiten in der Schweiz 50% der Beschäftigten von zu Hause, im Vergleich zu 25% vorher. Auch nach der Krise wird der Trend zum Home-Office bleiben. Unternehmen sollten Maßnahmen ergreifen, um ihre Mitarbeiter ausreichend zu unterstützen, da die Arbeitsproduktivität der meisten Befragten nicht gesunken ist.>}}
 
 Das Homeoffice per se ist nicht eine «Errungenschaft» von Covid, welches unser Land im März 2020 offenbar unvorbereitet getroffen hat. Schon vorher gab es Pläne, die Mitarbeitenden zu motivieren, von zu Hause aus der Arbeit nachzugehen. Das immer schnellere Internet, die Onlinesitzungen, und die Pläne diverser Firmen, das Outsourcing der physischen Präsenz zu beschleunigen gab es schon vor Covid-19. Die Pandemie war für gewisse Firmen die Generalprobe, für viele andere jedoch führte es zu massiven Umstellungen. Das hat grundsätzlich die Einstellung der Wirtschaft zu «Homeoffice» oder Outsourcing, nachhaltig verändert. 
 
@@ -34,6 +34,14 @@ Ein Homeoffice in diesen Bereichen ist faktisch unmöglich.  
  Herr Ferraro hält fest:  «Im Endeffekt heißt es, du hast mehr Zeit für dich selbst, für die Familie! Wie gesagt, es fällt relativ viel weg. Der Arbeitsweg, die Pausen im Büro, die Bürobesuche, man arbeitet ungestörter und intensiver.» 
 
 Trotz der Vorteile die die Familiennähe mit sich gebracht hat, musste auch Herr Ferraro zugeben, dass die wochenlange Abwesenheit vom Büro einige negative Aspekte gezeigt hat. Er hat es vermisst, mit Kollegen an der Kaffeemaschine zu schwatzen. « Was sicherlich teilweise gefehlt hat, war das Spontane, \[…] das Zwischenmenschliche, die sozialen Interaktionen.», erzählt er mit etwas Nostalgie. 
+
+<!--StartFragment-->
+
+**Roche:** „Die Mitarbeiter haben die Möglichkeit, 2-3 Home-Office-Tage zu absolvieren, während der Rest im Büro verbracht wird.“
+
+*Stellungsnahme von Roche, angefragt von Entourage*
+
+<!--EndFragment-->
 
 Herr Roman Arvai, Analytiker und Qualitätsmanager der Roche-Gruppe erklärt, dass die Pharmabranche schon längst einen Notfallplan hatte. Die Pandemie hat diesen nicht in die Wege geleitet, sondern viel mehr fungierte die Pandemie als Generalprobe. So zu sagen präzise Weichenstellungen, die für das Funktionieren der Branche notwendig sind und schnelle alternative Lösungen, die bereitgestellt werden können.  
 
