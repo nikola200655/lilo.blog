@@ -2,6 +2,7 @@
 title = "Ist der Arbeitsplatz zuhause? "
 draft = true
 image = "dall-e-2023-05-08-08.25.24-a-person-working-in-home-office-viewed-from-behind-in-a-dark-room-.jpg"
+description = "Corona hat die Arbeitswelt verändert. Wie hat sich das auf die Arbeitswelt ausgewirkt?"
 footnotes = "Image: Dall-E promt: \"A person working in Home-Office, viewed from behind in a dark room\"\n\nSources:\n\nhttps://kops.uni-konstanz.de/server/api/core/bitstreams/a556f391-d013-465d-8bfd-7473824cc896/content\n\nhttps://www2.deloitte.com/ch/de/pages/human-capital/articles/how-covid-19-contributes-to-a-long-term-boost-in-remote-working.html\n\nhttps://blog.gfos.com/workforce/homeoffice-produktivitaet-studie\n\nhttps://theentourage.de/home-office-in-pharma/"
 +++
 Wie man zukünftig arbeiten wird.  
