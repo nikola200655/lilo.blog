@@ -1,7 +1,7 @@
 +++
 title = "Ist der Arbeitsplatz zuhause? "
 date = "2023-05-08"
-draft = true
+draft = false
 pinned = false
 image = "dall-e-2023-05-08-08.25.24-a-person-working-in-home-office-viewed-from-behind-in-a-dark-room-.jpg"
 description = "Corona hat die Arbeitswelt verändert. Wie hat sich das auf die Arbeitswelt ausgewirkt?"
