@@ -7,9 +7,9 @@ image = "dall-e-2023-05-08-08.25.24-a-person-working-in-home-office-viewed-from-
 description = "Corona hat die Arbeitswelt verändert. Wie hat sich das auf die Arbeitswelt ausgewirkt?"
 footnotes = "Image: Dall-E promt: \"A person working in Home-Office, viewed from behind in a dark room\"\n\nSources:\n\nhttps://kops.uni-konstanz.de/server/api/core/bitstreams/a556f391-d013-465d-8bfd-7473824cc896/content\n\nhttps://www2.deloitte.com/ch/de/pages/human-capital/articles/how-covid-19-contributes-to-a-long-term-boost-in-remote-working.html\n\nhttps://blog.gfos.com/workforce/homeoffice-produktivitaet-studie\n\nhttps://theentourage.de/home-office-in-pharma/"
 +++
-**Wie man zukünftig arbeiten wird.**  
+**Wie man zukünftig arbeiten wird.** 
 
-{{</Seit der Corona-Krise arbeiten in der Schweiz 50% der Beschäftigten von zu Hause, im Vergleich zu 25% vorher. Auch nach der Krise wird der Trend zum Home-Office bleiben. Unternehmen sollten Maßnahmen ergreifen, um ihre Mitarbeiter ausreichend zu unterstützen, da die Arbeitsproduktivität der meisten Befragten nicht gesunken ist.>}}
+> Seit der Corona-Krise arbeiten in der Schweiz 50% der Beschäftigten von zu Hause, im Vergleich zu 25% vorher. Auch nach der Krise wird der Trend zum Home-Office bleiben. Unternehmen sollten Maßnahmen ergreifen, um ihre Mitarbeiter ausreichend zu unterstützen, da die Arbeitsproduktivität der meisten Befragten nicht gesunken ist.
 
 Das Homeoffice per se ist nicht eine «Errungenschaft» von Covid, welches unser Land im März 2020 offenbar unvorbereitet getroffen hat. Schon vorher gab es Pläne, die Mitarbeitenden zu motivieren, von zu Hause aus der Arbeit nachzugehen. Das immer schnellere Internet, die Onlinesitzungen, und die Pläne diverser Firmen, das Outsourcing der physischen Präsenz zu beschleunigen gab es schon vor Covid-19. Die Pandemie war für gewisse Firmen die Generalprobe, für viele andere jedoch führte es zu massiven Umstellungen. Das hat grundsätzlich die Einstellung der Wirtschaft zu «Homeoffice» oder Outsourcing, nachhaltig verändert. 
 
