@@ -35,13 +35,13 @@ Ein Homeoffice in diesen Bereichen ist faktisch unmöglich.  
 
 Trotz der Vorteile die die Familiennähe mit sich gebracht hat, musste auch Herr Ferraro zugeben, dass die wochenlange Abwesenheit vom Büro einige negative Aspekte gezeigt hat. Er hat es vermisst, mit Kollegen an der Kaffeemaschine zu schwatzen. « Was sicherlich teilweise gefehlt hat, war das Spontane, \[…] das Zwischenmenschliche, die sozialen Interaktionen.», erzählt er mit etwas Nostalgie. 
 
-<!--StartFragment-->
-
-**Roche:** „Die Mitarbeiter haben die Möglichkeit, 2-3 Home-Office-Tage zu absolvieren, während der Rest im Büro verbracht wird.“
-
-*Stellungsnahme von Roche, angefragt von Entourage*
-
-<!--EndFragment-->
+> <!--StartFragment-->
+>
+> **Roche:** „Die Mitarbeiter haben die Möglichkeit, 2-3 Home-Office-Tage zu absolvieren, während der Rest im Büro verbracht wird.“
+>
+> *\- Stellungsnahme von Roche, angefragt von Entourage*
+>
+> <!--EndFragment-->
 
 Herr Roman Arvai, Analytiker und Qualitätsmanager der Roche-Gruppe erklärt, dass die Pharmabranche schon längst einen Notfallplan hatte. Die Pandemie hat diesen nicht in die Wege geleitet, sondern viel mehr fungierte die Pandemie als Generalprobe. So zu sagen präzise Weichenstellungen, die für das Funktionieren der Branche notwendig sind und schnelle alternative Lösungen, die bereitgestellt werden können.  
 
